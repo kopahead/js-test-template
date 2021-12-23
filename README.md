@@ -1,1 +1,1 @@
-# js-sorting-algorithm-exercises
+# Js Test Template for personal use
